@@ -1,5 +1,5 @@
 # pam_slurm_adopt_targetable
-pam_slurm_adopt plugin modified to enable specifying target slurm job
+[pam_slurm_adopt](https://slurm.schedmd.com/pam_slurm_adopt.html) slurm plugin modified to enable specifying target slurm job
 
 ## Pre-requisites
 For the plugin to work, home directory must be synced (e.g. via NFS) between slurm login node and compute nodes.
